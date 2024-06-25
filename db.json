@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "James Williams",
+      "email": "jameswilly@gmail.com",
+      "number": "08111111111",
+      "millati": "Uzbek",
+      "tugilganJoyi": "Toshkent"
+    },
+    {
+      "id": "3",
+      "name": "Ahmed Ali",
+      "email": "ahmedali012@gmail.com",
+      "number": "09022222222",
+      "millati": "Qoraqalpoq",
+      "tugilganJoyi": "Qoraqalpog'iston"
+    },
+    {
+      "id": "d872",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "number": "08123456789",
+      "millati": "Uzbek",
+      "tugilganJoyi": "Xorazm"
+    },
+    {
+      "id": "a252",
+      "name": "Asilbek",
+      "email": "asilbekabdullayevprogrammer@gmail.com",
+      "number": "941920421",
+      "tugilganJoyi": "Qoraqalpog'iston",
+      "millati": "Uzbek"
+    },
+    {
+      "id": "3a02",
+      "name": "sdfdgf",
+      "email": "asdfgn@gmil.com",
+      "number": "23456",
+      "tugilganJoyi": "Samarqand",
+      "millati": "Qozoq"
+    },
+    {
+      "id": "9f80",
+      "name": "sdfdgf",
+      "email": "asdfgn@gmil.com",
+      "number": "23456",
+      "tugilganJoyi": "Qashqadaryo",
+      "millati": "Tojik"
+    }
+  ]
+}
